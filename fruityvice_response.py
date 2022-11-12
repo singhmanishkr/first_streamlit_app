@@ -1,7 +1,7 @@
 import requests
 
 streamlit.title("My Mom's New Healthy Dinner")
-streamlit.header("Breakfast Favorites")
+streamlit.header("Fruityvice Fruit Advice!")
 streamlit.text("Omega3 & Buleberry Oatmeal")
 streamlit.text("Kale, Spanich & Rocket Smoothie")
 streamlit.text("Hard-Boiled Free Range Egg")
